@@ -1,2 +1,1 @@
 # CIS-7017
-MSc in DS
